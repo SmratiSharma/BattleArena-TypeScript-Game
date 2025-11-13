@@ -1,0 +1,5 @@
+interface Iplayer{
+    actorId : number,
+    score : number,
+    
+}
